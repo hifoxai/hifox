@@ -25,4 +25,3 @@ Welcome! [HiFox.ai](https://hifox.ai?ref=github) an AI-powered work platform tha
 ## Stay Connected
 
 * For more information, visit [HiFox.ai Website](https://hifox.ai?ref=github)
-* Join our [discord community](https://discord.gg/bu5Qs7xT4D) to discuss the development of HiFox.ai!
